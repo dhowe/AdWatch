@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="5">
+
+  <testsuite name="imageAds"
+    errors="1" failures="1" hostname="" id="" package="imageAds" skipped="0"
+    tests="5" time="108.6" timestamp="Tue, 03 Jan 2017 09:13:59 GMT">
+  
+    <testcase name="Setting Page" time="4.612" assertions="0">
+    </testcase>
+      <system-err>
+        ERROR: Unable to locate element: &quot;#adunit&quot; using: &quot;css selector&quot;
+    at command (/Users/cqx931/AdWatch/nightwatch/lib/api/assertions/hidden.js:42:21)
+    at module.exports.BaseAssertion._scheduleAssertion (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:87:17)
+    at module.exports.BaseAssertion._executeCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:180:21)
+    at AsyncTree.runCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:154:30)
+    at AsyncTree.runChildNode (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:114:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:80:10)
+    at AsyncTree.walkUp (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:97:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:90:12)
+    at AsyncTree.traverse (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:73:8)
+      </system-err>
+  
+    <testcase name="Simple Image Ad tests" time="3.414" assertions="1">
+
+    
+    </testcase>
+      <system-err>
+        ERROR: Unable to locate element: &quot;#adunit&quot; using: &quot;css selector&quot;
+    at command (/Users/cqx931/AdWatch/nightwatch/lib/api/assertions/hidden.js:42:21)
+    at module.exports.BaseAssertion._scheduleAssertion (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:87:17)
+    at module.exports.BaseAssertion._executeCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:180:21)
+    at AsyncTree.runCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:154:30)
+    at AsyncTree.runChildNode (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:114:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:80:10)
+    at AsyncTree.walkUp (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:97:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:90:12)
+    at AsyncTree.traverse (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:73:8)
+      </system-err>
+  
+    <testcase name="Popular sites tests" time="68.11" assertions="20">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+        ERROR: Unable to locate element: &quot;#adunit&quot; using: &quot;css selector&quot;
+    at command (/Users/cqx931/AdWatch/nightwatch/lib/api/assertions/hidden.js:42:21)
+    at module.exports.BaseAssertion._scheduleAssertion (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:87:17)
+    at module.exports.BaseAssertion._executeCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:180:21)
+    at AsyncTree.runCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:154:30)
+    at AsyncTree.runChildNode (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:114:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:80:10)
+    at AsyncTree.walkUp (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:97:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:90:12)
+    at AsyncTree.traverse (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:73:8)
+      </system-err>
+  
+    <testcase name="Cosmetic iframe tests" time="30.20" assertions="1">
+
+    
+    </testcase>
+      <system-err>
+        ERROR: Unable to locate element: &quot;#adunit&quot; using: &quot;css selector&quot;
+    at command (/Users/cqx931/AdWatch/nightwatch/lib/api/assertions/hidden.js:42:21)
+    at module.exports.BaseAssertion._scheduleAssertion (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:87:17)
+    at module.exports.BaseAssertion._executeCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:180:21)
+    at AsyncTree.runCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:154:30)
+    at AsyncTree.runChildNode (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:114:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:80:10)
+    at AsyncTree.walkUp (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:97:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:90:12)
+    at AsyncTree.traverse (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:73:8)
+      </system-err>
+  
+    <testcase name="Dynamic iframe tests" time="2.289" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;#adunit&gt; is hidden. Element could not be located.">    at Object.Dynamic iframe tests (/Users/cqx931/AdWatch/testcases/imageAds.js:58:17)
+    at Module.call (/Users/cqx931/AdWatch/nightwatch/lib/runner/module.js:62:34)
+    at /Users/cqx931/AdWatch/nightwatch/lib/runner/testcase.js:70:29
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+      <system-err>
+        ERROR: Unable to locate element: &quot;#adunit&quot; using: &quot;css selector&quot;
+    at command (/Users/cqx931/AdWatch/nightwatch/lib/api/assertions/hidden.js:42:21)
+    at module.exports.BaseAssertion._scheduleAssertion (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:87:17)
+    at module.exports.BaseAssertion._executeCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (/Users/cqx931/AdWatch/nightwatch/lib/core/assertion.js:180:21)
+    at AsyncTree.runCommand (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:154:30)
+    at AsyncTree.runChildNode (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:114:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:80:10)
+    at AsyncTree.walkUp (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:97:8)
+    at AsyncTree.walkDown (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:90:12)
+    at AsyncTree.traverse (/Users/cqx931/AdWatch/nightwatch/lib/core/queue.js:73:8)
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>
