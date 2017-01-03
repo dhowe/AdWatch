@@ -48,13 +48,12 @@ module.exports = {
 
     "Dynamic iframe tests": function(client) {
         
-        client.url("https://rednoise.org/adntest/dynamic_iframe.html")
+        client.url("http://rednoise.org/adntest/dynamic_iframe.html")
         .waitForElementVisible("iframe", 3000)
         // give time to the iframe to be available
         .frame(0)
         .pause(1000)
         .waitForElementVisible("body", 1000)
-        //this iframe sometimes doesn't load...
         .assert.hidden("#adunit")
         .pause(1000)
         .end();
